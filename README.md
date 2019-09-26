@@ -1,10 +1,3 @@
-# Mini-Project 1 Project Report
-## Authors 
-Meghan Pleiman and Casey Haskins
-## Responsibilities
-Meghan constructed the enemy ship, added the background color, created the new colors for the ships and bullets, made the spawner, added the sound, and wrote the report. 
-
-Casey constructed the ship, got the ship to fire correctly, added the lives to the ship, added the functionality of the enemy ship to follow the normal ship, and made the ship take damage. 
 
 ## Licenses 
 - Music from https://filmmusic.io "Tyrant" by Kevin MacLeod (https://incompetech.com) License: CC BY (http://creativecommons.org/licenses/by/4.0/)
